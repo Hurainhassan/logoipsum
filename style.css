@@ -1,0 +1,28 @@
+.header{
+    position: sticky;
+    top: 0px;
+}
+.navcolor{
+color: blueviolet;
+border-color: blueviolet!important;
+}
+.herobutton{
+    background-color: blueviolet!important;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+}
+.footer{
+    background-color: #F5FCFF!important;
+}
+.button{
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 20%!important;
+}
+.color{
+    outline-color: blueviolet!important;
+}
